@@ -11,3 +11,7 @@ name of the object class (one of the classes supported by YOLO or another select
 
 Output:
 a video file collected from the frames on which the found object is cut.
+
+Examples of input and output data (object class “cat"):
+https://drive.google.com/file/d/1RiudS0mFTDlzfS8L-Qhl_j2eD_dpljM_/view
+https://drive.google.com/file/d/1RMAhyMKcagNeN_p9O_-zAmvh4Ovcw0Vf/view
