@@ -1,9 +1,8 @@
 
 # Usage:
-#conda create -n anaconda_env
-#conda activate anaconda_env
-#python3 -m venv anaconda_env
-#pip install -r requirements.txt
+# conda create -n myvenv python=3.8
+# conda activate myvenv
+# pip install -r requirements.txt
 
 # Base ------------------------------------------------------------------------
 gitpython>=3.1.31
