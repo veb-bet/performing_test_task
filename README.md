@@ -15,3 +15,7 @@ a video file collected from the frames on which the found object is cut.
 Examples of input and output data (object class “cat"):
 https://drive.google.com/file/d/1RiudS0mFTDlzfS8L-Qhl_j2eD_dpljM_/view
 https://drive.google.com/file/d/1RMAhyMKcagNeN_p9O_-zAmvh4Ovcw0Vf/view
+
+The result of my program:
+https://drive.google.com/file/d/1RJDXhUypm7CyOkv5aqZr3mw2KFvMk8N7/view?usp=sharing (.mp4)
+https://drive.google.com/file/d/17Ge3NJl1DrM-ypLpZ_QDegS-vC6zJW1c/view?usp=sharing (.avi)
