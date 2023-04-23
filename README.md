@@ -19,3 +19,7 @@ https://drive.google.com/file/d/1RMAhyMKcagNeN_p9O_-zAmvh4Ovcw0Vf/view
 The result of my program:
 https://drive.google.com/file/d/1RJDXhUypm7CyOkv5aqZr3mw2KFvMk8N7/view?usp=sharing (.mp4)
 https://drive.google.com/file/d/17Ge3NJl1DrM-ypLpZ_QDegS-vC6zJW1c/view?usp=sharing (.avi)
+
+Output to the console:
+![image](https://user-images.githubusercontent.com/73333734/233847059-795c24e3-9021-416c-be57-277a917dd0da.png)
+![image](https://user-images.githubusercontent.com/73333734/233847376-9b343838-68b3-4b2f-868d-9c749cf5776c.png)
